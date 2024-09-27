@@ -1,8 +1,8 @@
 <h1 align="center">Salutations 👋</h1>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/cb93b904-2094-4457-80bd-6e39ce3e0353" alt="glitch" style="width: 100%;"/>
-</div>
+
+<img src="https://github.com/user-attachments/assets/cb93b904-2094-4457-80bd-6e39ce3e0353" alt="glitch" style="width: 100%; max-width: 846px;"/>
+
 <br>
 
 <h2 align="center">🌐 Socials:</h2>

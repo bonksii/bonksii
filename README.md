@@ -1,7 +1,8 @@
-                                                                                                                    ## Salutations 👋
+<h2 align="center">Salutations 👋</h2>
 
 # 💫 About Me:
 computer science (Cyber Securtiy) University student
+<br>
 ![glitch](https://github.com/user-attachments/assets/cb93b904-2094-4457-80bd-6e39ce3e0353)
 <br>
 ## 🌐 Socials:

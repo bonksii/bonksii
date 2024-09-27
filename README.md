@@ -1,7 +1,8 @@
-<h2 align="center">Salutations 👋</h2>
+<h1 align="center">Salutations 👋</h1>
 
-# 💫 About Me:
+<h2 align="center">💫 About Me: </h2>
 computer science (Cyber Securtiy) University student
+
 <br><br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cb93b904-2094-4457-80bd-6e39ce3e0353" alt="glitch" style="width: 100%;"/>
@@ -11,7 +12,9 @@ computer science (Cyber Securtiy) University student
 <h2 align="center">🌐 Socials:</h2>
 
 <div align="center">
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/516179356423290900)
+  <a href="https://discord.com/users/516179356423290900">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </div>
 
 <h2 align="center">💻 Tech Stack:</h2>

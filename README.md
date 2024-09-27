@@ -5,7 +5,7 @@
 
 <br>
 
-<h2 align="center">🌐 Socials:</h2>
+<h2 align="center">🌐 Socialss:</h2>
 
 <div align="center">
   <a href="https://discord.com/users/516179356423290900">

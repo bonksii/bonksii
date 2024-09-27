@@ -1,7 +1,7 @@
 <h1 align="center">Salutations 👋</h1>
 
 
-![glitch](https://github.com/user-attachments/assets/cb93b904-2094-4457-80bd-6e39ce3e0353)
+![gits](https://github.com/user-attachments/assets/5a51a3bf-b55a-4adc-9925-37a39d1a9129)
 
 <br>
 

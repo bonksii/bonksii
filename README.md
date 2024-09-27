@@ -1,9 +1,5 @@
 <h1 align="center">Salutations 👋</h1>
 
-<h2 align="center">💫 About Me: </h2>
-computer science (Cyber Securtiy) University student
-
-<br><br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cb93b904-2094-4457-80bd-6e39ce3e0353" alt="glitch" style="width: 100%;"/>
 </div>

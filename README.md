@@ -8,8 +8,9 @@
 <h2 align="center">🌐 Contact Me:</h2>
 
 <div align="center">
-  <p>Email me at <a href="mailto:admin@bonksii.com">admin@bonksii.com</a></p>
+  <p>Email me at: <strong><a href="mailto:admin@bonksii.com">admin@bonksii.com</a></strong></p>
 </div>
+
 
 
 <h2 align="center">💻 Tech Stack:</h2>

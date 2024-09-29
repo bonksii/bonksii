@@ -5,13 +5,12 @@
 
 <br>
 
-<h2 align="center">🌐 Socials:</h2>
+<h2 align="center">🌐 Contact Me:</h2>
 
 <div align="center">
-  <a href="https://discord.com/users/516179356423290900">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+  <p>Email me at <a href="mailto:admin@bonksii.com">admin@bonksii.com</a></p>
 </div>
+
 
 <h2 align="center">💻 Tech Stack:</h2>
 
